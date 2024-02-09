@@ -1,2 +1,1 @@
-# nuclab
-Laboratory work of the "Nuclear Workshop"
+# Лабораторные работы «Ядерного практикума»
