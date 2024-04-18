@@ -8,5 +8,6 @@
 2. Гамма-спектрометр на основе сцинтилляционного счетчика ([scintillation_counter.ipynb](lab_2%2Fscintillation_counter.ipynb))
 3. Метод совпадений ([Laboratornaya_rabota_3.pdf](lab_3%2FLaboratornaya_rabota_3.pdf))
 4. Газовый цилиндрический счётчик ([cylindrical_counter.ipynb](lab_4%2Fcylindrical_counter.ipynb))
-5. Использование кремниевых ФЭУ для экспериментов в ядерной физике и физике элементарных частиц ([Laboratornaya_rabota_7.pdf](lab_7%2FLaboratornaya_rabota_7.pdf))
-6. Комптоновское рассеяние ([Laboratornaya_rabota_8.pdf](lab_8%2FLaboratornaya_rabota_8.pdf))
+5. Резерфордовское рассеяние ([Laboratornaya_rabota_5.pdf](lab_5%2FLaboratornaya_rabota_5.pdf))
+6. Использование кремниевых ФЭУ для экспериментов в ядерной физике и физике элементарных частиц ([Laboratornaya_rabota_7.pdf](lab_7%2FLaboratornaya_rabota_7.pdf))
+7. Комптоновское рассеяние ([Laboratornaya_rabota_8.pdf](lab_8%2FLaboratornaya_rabota_8.pdf))
